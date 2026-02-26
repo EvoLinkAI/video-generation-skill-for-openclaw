@@ -41,7 +41,7 @@
 ### 快速安装（推荐）
 
 ```bash
-openclaw skills add https://github.com/EvoLinkAI/video-generation-skill-for-openclaw
+openclaw skills add https://github.com/xiji2646-netizen/video-generation-skill-for-openclaw
 ```
 
 完事。技能已可供代理使用。
@@ -49,7 +49,7 @@ openclaw skills add https://github.com/EvoLinkAI/video-generation-skill-for-open
 ### 手动安装
 
 ```bash
-git clone https://github.com/EvoLinkAI/video-generation-skill-for-openclaw.git
+git clone https://github.com/xiji2646-netizen/video-generation-skill-for-openclaw.git
 cd video-generation-skill-for-openclaw
 openclaw skills add .
 ```
@@ -259,7 +259,7 @@ claude mcp add evolink-media -e EVOLINK_API_KEY=your-key -- npx -y @evolinkai/ev
 
 ## 更多技能
 
-更多 EvoLink 技能正在开发中。关注更新或 [提出需求](https://github.com/EvoLinkAI/video-generation-skill-for-openclaw/issues)。
+更多 EvoLink 技能正在开发中。关注更新或 [提出需求](https://github.com/xiji2646-netizen/video-generation-skill-for-openclaw/issues)。
 
 ---
 
