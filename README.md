@@ -41,7 +41,7 @@ More skills coming soon.
 ### Quick Install (Recommended)
 
 ```bash
-openclaw skills add https://github.com/xiji2646-netizen/video-generation-skill-for-openclaw
+openclaw skills add https://github.com/EvoLinkAI/video-generation-skill-for-openclaw
 ```
 
 Done. The skill is ready for your agent.
@@ -49,7 +49,7 @@ Done. The skill is ready for your agent.
 ### Manual Install
 
 ```bash
-git clone https://github.com/xiji2646-netizen/video-generation-skill-for-openclaw.git
+git clone https://github.com/EvoLinkAI/video-generation-skill-for-openclaw.git
 cd video-generation-skill-for-openclaw
 openclaw skills add .
 ```
@@ -259,7 +259,7 @@ Full API documentation: [references/api-params.md](references/api-params.md)
 
 ## More Skills
 
-More EvoLink skills are in development. Follow for updates or [submit a request](https://github.com/xiji2646-netizen/video-generation-skill-for-openclaw/issues).
+More EvoLink skills are in development. Follow for updates or [submit a request](https://github.com/EvoLinkAI/video-generation-skill-for-openclaw/issues).
 
 ---
 
