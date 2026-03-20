@@ -9,7 +9,7 @@
   <a href="#安装">安装</a> •
   <a href="#获取-api-key">API Key</a> •
   <a href="#视频生成">生成</a> •
-  <a href="https://evolink.ai">EvoLink</a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=video-generation-skill-for-openclaw">EvoLink</a>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ openclaw skills add .
 
 ## 获取 API Key
 
-1. 在 [evolink.ai](https://evolink.ai) 注册
+1. 在 [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=video-generation-skill-for-openclaw) 注册
 2. 进入 Dashboard → API Keys
 3. 创建新 Key
 4. 设置环境变量：
@@ -278,5 +278,5 @@ MIT
 ---
 
 <p align="center">
-  由 <a href="https://evolink.ai"><strong>EvoLink</strong></a> 提供支持 — 统一 AI API 网关
+  由 <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=video-generation-skill-for-openclaw"><strong>EvoLink</strong></a> 提供支持 — 统一 AI API 网关
 </p>
