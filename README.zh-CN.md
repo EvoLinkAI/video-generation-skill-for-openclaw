@@ -22,7 +22,7 @@
 
 ## 这是什么？
 
-一套基于 [EvoLink](https://evolink.ai) 的 [OpenClaw](https://github.com/openclaw/openclaw) 技能包。安装一个技能，你的 AI 代理就能调用 **37 个视频模型**，覆盖全球顶级供应商 — 全部通过一个 API 搞定。
+一套基于 [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=video-generation) 的 [OpenClaw](https://github.com/openclaw/openclaw) 技能包。安装一个技能，你的 AI 代理就能调用 **37 个视频模型**，覆盖全球顶级供应商 — 全部通过一个 API 搞定。
 
 | 技能 | 描述 | 供应商 |
 |------|------|--------|
@@ -30,7 +30,7 @@
 
 > 这是 [evolink-media](https://clawhub.ai/EvoLinkAI/evolink-media) 的视频子集。安装完整版可获得图片和音乐生成能力。
 
-🚀 **[立即体验所有模型 →](https://evolink.ai/models)**
+🚀 **[立即体验所有模型 →](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=video-generation)**
 
 更多技能即将推出。
 
@@ -249,8 +249,8 @@ claude mcp add evolink-media -e EVOLINK_API_KEY=your-key -- npx -y @evolinkai/ev
 |------|---------|
 | `jq: command not found` | 安装 jq：`apt install jq` / `brew install jq` |
 | `curl: command not found` | 安装 curl：`apt install curl` / `brew install curl` |
-| `401 Unauthorized` | 检查 `EVOLINK_API_KEY`，在 [evolink.ai/dashboard](https://evolink.ai/dashboard) 确认 |
-| `402 Payment Required` | 在 [evolink.ai/dashboard](https://evolink.ai/dashboard) 充值 |
+| `401 Unauthorized` | 检查 `EVOLINK_API_KEY`，在 [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=video-generation) 确认 |
+| `402 Payment Required` | 在 [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=video-generation) 充值 |
 | 内容被拦截 | 真实人脸受限 — 修改提示词 |
 | 生成超时 | 视频生成需 30–180 秒，先试低分辨率 |
 | 模型不可用 | 测试模型可能有限制 — 换用稳定模型 |
