@@ -22,7 +22,7 @@
 
 ## What Is This?
 
-An [OpenClaw](https://github.com/openclaw/openclaw) skill powered by [EvoLink](https://evolink.ai). Install one skill, and your AI agent gains the ability to generate videos with **37 models** from the world's leading providers — all through a single API.
+An [OpenClaw](https://github.com/openclaw/openclaw) skill powered by [EvoLink](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=video-generation). Install one skill, and your AI agent gains the ability to generate videos with **37 models** from the world's leading providers — all through a single API.
 
 | Skill | Description | Providers |
 |-------|-------------|-----------|
@@ -30,7 +30,7 @@ An [OpenClaw](https://github.com/openclaw/openclaw) skill powered by [EvoLink](h
 
 > This is the video-focused view of [evolink-media](https://clawhub.ai/EvoLinkAI/evolink-media). Install the full skill for image and music generation too.
 
-🚀 **[Try All Models Now →](https://evolink.ai/models)**
+🚀 **[Try All Models Now →](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=video-generation)**
 
 More skills coming soon.
 
@@ -249,8 +249,8 @@ Full API documentation: [references/api-params.md](references/api-params.md)
 |---------|----------|
 | `jq: command not found` | Install jq: `apt install jq` / `brew install jq` |
 | `curl: command not found` | Install curl: `apt install curl` / `brew install curl` |
-| `401 Unauthorized` | Check `EVOLINK_API_KEY` at [evolink.ai/dashboard](https://evolink.ai/dashboard) |
-| `402 Payment Required` | Top up at [evolink.ai/dashboard](https://evolink.ai/dashboard) |
+| `401 Unauthorized` | Check `EVOLINK_API_KEY` at [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=video-generation) |
+| `402 Payment Required` | Top up at [evolink.ai/dashboard](https://evolink.ai/dashboard?utm_source=github&utm_medium=readme&utm_campaign=video-generation) |
 | Content blocked | Real faces may be restricted — modify your prompt |
 | Generation timeout | Video generation takes 30–180s, try lower resolution first |
 | Model unavailable | Beta models may have limited availability — use a stable model |
