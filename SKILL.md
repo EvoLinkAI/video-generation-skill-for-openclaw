@@ -20,7 +20,7 @@ Generate AI videos with 37 models including Sora, Kling, Veo 3, Seedance, Hailuo
 
 ## Setup
 
-Get your API key at [evolink.ai](https://evolink.ai/signup?utm_source=github[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=video-generation-skill-for-openclaw)utm_medium=readme[evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=video-generation-skill-for-openclaw)utm_campaign=video-generation-skill-for-openclaw) and set `EVOLINK_API_KEY`.
+Get your API key at [evolink.ai](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=video-generation-skill-for-openclaw) and set `EVOLINK_API_KEY`.
 
 ### Bridge MCP Server (recommended)
 
